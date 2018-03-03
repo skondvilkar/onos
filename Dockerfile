@@ -45,7 +45,7 @@ LABEL org.label-schema.name="ONOS" \
       org.label-schema.usage="http://wiki.onosproject.org" \
       org.label-schema.url="http://onosproject.org" \
       org.label-scheme.vendor="Open Networking Foundation" \
-      org.label-schema.schema-version="1.0"
+      org.label-schema.schema-version="1.3"
 
 # Ports
 # 6653 - OpenFlow
